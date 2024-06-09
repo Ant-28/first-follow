@@ -1,0 +1,4 @@
+*.python-version
+*.7z
+__pycache__/
+media/
